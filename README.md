@@ -26,7 +26,7 @@ You may also download the zip file directly through your browser using the follo
 >https://app.roboflow.com/ds/qETIYGFoiw?key=l5JFaEUH1c
 
 Acknowledgement:
-The authors greatly appreciate the pavement images received from FHWA LTPP InfoPave.
+The authors greatly appreciate the pavement images received by Dr. Weidong Wu from FHWA LTPP InfoPave.
 A good amount of the images were retrieved by the sponsor of this projrect Dr. Weidong Wu at UTC from LTPP InfoPave website.
 You are recommended to contact Dr. Weidong Wu (Weidong-Wu@utc.edu) if you plan to use the images in your research.
 
