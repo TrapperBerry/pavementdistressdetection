@@ -1,6 +1,6 @@
 # pavementdistressdetection
-This is a senior design project completed by two civil engineering undergraduate students at University of Tennessee at Chattanooga (UTC) in December 2021.
-The sendor design project is titled as "Computer Vision & Civil Engineering: Pavement Distress Object Detection" 
+This is a senior design project completed by two civil engineering undergraduate students Berry & McHugh at University of Tennessee at Chattanooga (UTC) in December 2021.
+The senior design project is titled as "Computer Vision & Civil Engineering: Pavement Distress Object Detection" 
 
 Repository for Google Colab notebooks for use in pavement distress detection on images and videos
 To access our data set use the following instructions
@@ -31,4 +31,15 @@ A good amount of the images were retrieved by the sponsor of this projrect Dr. W
 
 Note: please cite the work following:
 J. Berry, & S. McHugh, (2021), GitHub repository, https://github.com/TrapperBerry/pavementdistressdetection
+
+BibTeX entry:
+
+@misc{Cite,
+  author = {Berry, J., McHugh,S.},
+  title = {Computer Vision & Civil Engineering: Pavement Distress Object Detectio},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/TrapperBerry/pavementdistressdetection}}}
+}
 
